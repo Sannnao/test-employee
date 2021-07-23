@@ -1,0 +1,44 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "status": "Added"
+    },
+    {
+      "id": 2,
+      "name": "Someone Else",
+      "status": "In-check"
+    },
+    {
+      "id": 3,
+      "name": "Another One",
+      "status": "Approved"
+    },
+    {
+      "id": 4,
+      "name": "Unknownf Errorrrr",
+      "status": "In-check"
+    },
+    {
+      "id": 5,
+      "name": "Loading State",
+      "status": "Inactive"
+    },
+    {
+      "name": "alex piskun",
+      "status": "Added",
+      "id": 6
+    },
+    {
+      "name": "Aewaf EFon",
+      "status": "Added",
+      "id": 7
+    },
+    {
+      "name": "Norm Name",
+      "status": "In-check",
+      "id": 8
+    }
+  ]
+}
